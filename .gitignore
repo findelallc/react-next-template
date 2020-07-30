@@ -1,0 +1,8 @@
+.next/
+.idea/
+node_modules/
+env.json
+package-lock.json
+rc-token.iml
+public/sw.js
+public/workbox-*.js
